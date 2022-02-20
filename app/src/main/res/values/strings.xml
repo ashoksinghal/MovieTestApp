@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoveSearchTestApp</string>
+    <string name="tab_text_1">Movie Search</string>
+    <string name="tab_text_2">Favourite Movies</string>
+    <string name="search_hint_text">Search movies</string>
+    <string name="result_not_found">No results found</string>
+    <string name="detailed_view">Detailed View</string>
+    <string name="network_error">Please check, if you are connected to a Network.</string>
+</resources>
